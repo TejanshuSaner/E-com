@@ -19,7 +19,7 @@ const Home = () => {
         <p>Discover the best deals and latest products</p>
       </section>
 
-      <section className="promo" data-aos="fade-left">
+      <section className="promo " data-aos="fade-left">
         <h2>Special Promotions</h2>
         <p>Get discounts on your favorite products now!</p>
       </section>
