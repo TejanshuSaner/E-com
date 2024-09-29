@@ -25,7 +25,6 @@ const Navbar = () => {
         </ul>
       </nav>
 
-      {/* Off-canvas menu */}
       <div className={`offcanvas ${offCanvasOpen ? 'open' : ''}`}>
         <div className="offcanvas-content">
           <h2>Menu</h2>

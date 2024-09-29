@@ -9,7 +9,7 @@ const App = () => {
   return (
     <div>
       <Navbar />
-      <div style={{ paddingTop: '60px' }}> {/* Adjust padding as needed */}
+      <div style={{ paddingTop: '60px' }}> 
         <section id="home"><Home /></section>
         <section id="products"><Products /></section>
         <section id="about"><About /></section>

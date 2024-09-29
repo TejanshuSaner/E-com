@@ -1,5 +1,5 @@
 import React from 'react';
-import './css/contact.css'; // Ensure you have this CSS file
+import './css/contact.css'; 
 
 const Contact = () => {
   return (
@@ -20,7 +20,7 @@ const Contact = () => {
         </div>
       </div>
 
-      {/* Full-width horizontal footer */}
+  
       <footer className="contact-footer">
         <p>&copy; {new Date().getFullYear()} Your Brand Name. All rights reserved.</p>
       </footer>

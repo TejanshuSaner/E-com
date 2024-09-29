@@ -1,38 +1,38 @@
 .contact {
     padding: 40px 20px;
-    max-width: 1200px; /* Maximum width for better readability */
-    margin: auto; /* Center the component */
-    line-height: 1.6; /* Improve line spacing */
-    background-color: #f9f9f9; /* Light background color */
-    border-radius: 8px; /* Rounded corners */
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    max-width: 1200px; 
+    margin: auto; 
+    line-height: 1.6; 
+    background-color: #f9f9f9;
+    border-radius: 8px; 
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); 
   }
   
   .contact-container {
-    display: flex; /* Use flexbox for horizontal layout */
-    justify-content: space-between; /* Space between the two sections */
-    margin-bottom: 30px; /* Space below contact container */
+    display: flex;
+    justify-content: space-between; 
+    margin-bottom: 30px; 
   }
   
   .contact-info,
   .contact-message {
-    flex: 1; /* Equal width for both sections */
-    margin-right: 20px; /* Space between sections */
+    flex: 1; 
+    margin-right: 20px;
   }
   
   .contact-message {
-    margin-right: 0; /* Remove margin for the last section */
+    margin-right: 0; 
   }
   
   .contact-footer {
-    width: 100%; /* Full width */
-    background-color: #007bff; /* Background color for footer */
-    color: #fff; /* Text color */
-    text-align: center; /* Center text */
-    padding: 15px 0; /* Padding above and below footer */
-    position: relative; /* Position relative for stacking context */
-    bottom: 0; /* Stick to the bottom */
-    left: 0; /* Align to the left */
-    margin-top: 20px; /* Spacing above footer */
+    width: 100%; 
+    background-color: #007bff; 
+    color: #fff; 
+    text-align: center; 
+    padding: 15px 0;
+    position: relative;
+    bottom: 0; 
+    left: 0; 
+    margin-top: 20px;
   }
   
